@@ -1,0 +1,7 @@
+print("Hello my name is Rishi Chanda")
+print("I am 11 years old and I was born on March 13, 2013")
+print("I live in Indiana in the USA")
+print("I am of Indian origin")
+print("I am in 6th grade")
+print("I have lived in Hillsborough, New Jersey,   San Diego, California,  and Carmel, Indiana")
+print("I like playing Cricket")
